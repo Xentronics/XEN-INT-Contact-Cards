@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Sean Corcoran
+ORG:Xentronics
+TITLE:Software Engineer
+TEL;TYPE=WORK,VOICE:+61407737831
+EMAIL;TYPE=PREF,INTERNET:sean.corcoran@xentronics.com.au
+ADR;TYPE=WORK:;;Suite 2/278 Church St;Richmond;VIC;3121;Australia
+URL:https://www.xentronics.com.au
+END:VCARD
