@@ -1,0 +1,10 @@
+BEGIN:VCARD
+VERSION:3.0
+FN:Sayali Pawar
+ORG:Xentronics
+TITLE:Hardware Engineer
+TEL;TYPE=WORK,VOICE:+61407737831
+EMAIL;TYPE=PREF,INTERNET:sayali.pawar@xentronics.com.au
+ADR;TYPE=WORK:;;Suite 2/278 Church St;Richmond;VIC;3121;Australia
+URL:https://www.xentronics.com.au
+END:VCARD
